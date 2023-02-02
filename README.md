@@ -29,6 +29,7 @@
 <a href="https://www.linkedin.com/in/abhishek-badmaliya-010"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Badmaliya-89ddff?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.instagram.com/abhi.baddy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Abhishek-89ddff?style=for-the-badge&logo=instagram"></a>
 <a href="mailto:abbaddy812@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abbaddy812@gmail.com-89ddff?style=for-the-badge&logo=gmail"></a>
+<a href="https://stackoverflow.com/users/20440259/abhishek-badmaliya"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-Abhishek%20Badmaliya-89ddff?style=for-the-badge&logo=stackoverflow"></a>
 
 </div>
 
